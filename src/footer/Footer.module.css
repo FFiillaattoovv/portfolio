@@ -1,0 +1,24 @@
+.footerBlock {
+    height: 50vh;
+    background-color: #e1ecb7;
+}
+
+.footerContainer {
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.title {
+    background-color: aliceblue;
+}
+
+.footer {
+    border: 1px solid black;
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.button {
+    padding: 5px 10px;
+}
