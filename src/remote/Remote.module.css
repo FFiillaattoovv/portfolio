@@ -1,0 +1,24 @@
+.remoteBlock {
+    height: 50vh;
+    background-color: lightyellow;
+}
+
+.remoteContainer {
+    border: 1px solid black;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.title {
+    width: 100%;
+    background-color: aliceblue;
+}
+
+.button {
+    padding: 5px 10px;
+}
+
+.remote {
+    border: 1px solid black;
+    text-align: center;
+}
